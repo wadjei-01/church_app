@@ -1,16 +1,19 @@
-# gtp_app
+# Church Mobile App
+This repository contains a mini project I developed to test my skills in Flutter. The project is a mobile application designed for church activities and management.
 
-A new Flutter project.
+# Features
+  Event Management: Keep track of upcoming church events.
+  Announcements: Display important announcements for the congregation.
+  Prayer Requests: Submit and view prayer requests.
+  Donation Tracking: Manage and track donations.
 
-## Getting Started
+# Technologies Used
+  Flutter: For building the mobile application.
+  GetX: For state management and efficient routing.
 
-This project is a starting point for a Flutter application.
+# Prerequisites
+  Flutter SDK
+  Dart SDK
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/aaa6662a-3fc8-472a-9c85-bced0730b95c
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -3,13 +3,17 @@ This repository contains a mini project I developed to test my skills in Flutter
 
 # Features
   **Event Management:** Keep track of upcoming church events.
+  
   **Announcements:** Display important announcements for the congregation.
+  
   **Prayer Requests:** Submit and view prayer requests.
+  
   **Donation Tracking**: Manage and track donations.
   
 
 # Technologies Used
   **Flutter:** For building the mobile application.
+  
   **GetX:** For state management and efficient routing.
 
   
